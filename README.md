@@ -1,0 +1,1 @@
+Practicing writing Rspec tests on day 9 of General Assembly Web Development Immersive.
